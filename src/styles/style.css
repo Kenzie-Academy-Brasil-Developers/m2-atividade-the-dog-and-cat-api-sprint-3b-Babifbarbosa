@@ -1,0 +1,23 @@
+
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    display: flex;
+    background-color: brown;
+    justify-content: center;
+
+}
+img{
+    height: 500px;
+    width: 510px;
+}
+
+button{
+    height: 30px;
+    width: 510px;
+    
+}
